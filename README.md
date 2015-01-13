@@ -19,14 +19,14 @@ Machine Learning code snippets from a winter quarter 2015 independent study run 
 
 Week (Starting on) | Reading Chapter(s) | Topics | Algorithm(s) to code | Completion Date
 ---|---|---|---|---
-1 (1/5) | 1,2,3 | Statistical Learning, Linear Regression | KNN |
-2 (1/12)| 4 | Classification | LDA, QDA |
-3 (1/19)| 5 | Resampling | Bootstrap/Cross Validation tests |
-4 (1/26)| 6 | Model Selection & Shrinkage Methods | Principal Components Regression  |
-5 (2/2)| 7 | Moving Beyond Linearity | Generalized Additive Models  |
-6 (2/9)| 8 | Trees | Random Forest |
-7 (2/16)| 8 | Trees | Boosting |
-8 (2/23)| 9 | Support Vector Machines | SVM  |
-9 (3/2) | 9 | Support Vector Machines | SVM for more than 2 classes |
-10 (3/9)  |  10 | Unsupervised Learning | Clustering algorithm(s) |
+1 (1/12) | 1,2 | Statistical Learning, Linear Regression | KNN |
+2 (1/19)| 3,4 | Classification | LDA, QDA |
+3 (1/26)| 5 | Resampling | Bootstrap/Cross Validation tests |
+4 (2/2)| 6 | Model Selection & Shrinkage Methods | Principal Components Regression  |
+5 (2/9)| 7 | Moving Beyond Linearity | Generalized Additive Models  |
+6 (2/16)| 8 | Trees | Random Forest |
+7 (2/23)| 8 | Trees | Boosting |
+8 (3/2)| 9 | Support Vector Machines | SVM  |
+9 (3/9) | 9 | Support Vector Machines | SVM for more than 2 classes |
+10 (3/16)  |  10 | Unsupervised Learning | Clustering algorithm(s) |
 
