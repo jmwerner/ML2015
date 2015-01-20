@@ -42,5 +42,21 @@ x_train = x_all[1:subset_n, 1:2]
 x_test = x_all[(subset_n + 1):150, 1:2]
 y_in = array(iris[:Species][1:subset_n])
 
-test_predictions = kNN(x_train, y_in, 3, x_test, euclidean_distance, voting_function)
+test_predictions_2 = kNN(x_train, y_in, 2, x_test, euclidean_distance, voting_function)
+test_predictions_3 = kNN(x_train, y_in, 3, x_test, euclidean_distance, voting_function)
+test_predictions_4 = kNN(x_train, y_in, 4, x_test, euclidean_distance, voting_function)
+test_predictions_5 = kNN(x_train, y_in, 5, x_test, euclidean_distance, voting_function)
+test_predictions_6 = kNN(x_train, y_in, 6, x_test, euclidean_distance, voting_function)
+
+
+# Here we can test classification percentage because we have all of the data
+real_y = array(iris[:Species][(subset_n+1):(size(iris)[1])])
+n1 = length(real_y)
+
+class_2 = sum(real_y .== test_predictions_2) / n1
+class_3 = sum(real_y .== test_predictions_3) / n1
+class_4 = sum(real_y .== test_predictions_4) / n1
+class_5 = sum(real_y .== test_predictions_5) / n1
+class_6 = sum(real_y .== test_predictions_6) / n1
+
 
