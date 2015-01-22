@@ -19,7 +19,7 @@ Machine Learning code snippets from a winter quarter 2015 independent study run 
 
 Week (Starting on) | Reading Chapter(s) | Topics | Algorithm(s) to code | Completion Date
 ---|---|---|---|---
-1 (1/12) | 1,2 | Statistical Learning, Linear Regression | KNN |
+1 (1/12) | 1,2 | Statistical Learning, Linear Regression | KNN | 1/19
 2 (1/19)| 3,4 | Classification | LDA, QDA |
 3 (1/26)| 5 | Resampling | Bootstrap/Cross Validation tests |
 4 (2/2)| 6 | Model Selection & Shrinkage Methods | Principal Components Regression  |
