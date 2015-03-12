@@ -10,7 +10,7 @@ Machine Learning code snippets from a winter quarter 2015 independent study run 
 
 [Book](http://www-bcf.usc.edu/~gareth/ISL/)
 
-#### Schedule as of (2/7/15)
+#### Schedule 
 
 *Selected algorithms and pace of chapter readings are subject to change, other algorithms may be substituted or added to the list. As a chapter is finished and selected algorithms are complete, the next chapter will be started immediately.*
 
@@ -20,9 +20,9 @@ Week (Starting on) | Reading Chapter(s) | Topics | Algorithm(s) to code | Comple
 2 (1/19)| 3,4 | Classification | LDA | 2/7
 3 (1/26)| 5 | Resampling | Bootstrap/Cross Validation tests | 2/7
 4 (2/2)| 5 | Resampling | Bootstrap/Cross Validation tests | 2/7
-5 (2/9)| 6 | Model Selection & Shrinkage Methods | Principal Components Regression |
-6 (2/16)| 7 | Moving Beyond Linearity | Generalized Additive Models |
-7 (2/23)| 8 | Trees | Boosting |
+5 (2/9)| 6 | Model Selection & Shrinkage Methods | Principal Components Regression | 2/28
+6 (2/16)| 7 | Moving Beyond Linearity | Generalized Additive Models | 2/28
+7 (3/2)| 8 | Trees | Boosting |
 8 (3/2)| 9 | Support Vector Machines | SVM  |
 9 (3/9) | 9 | Support Vector Machines | SVM for more than 2 classes |
 10 (3/16)  |  10 | Unsupervised Learning | Clustering algorithm(s) |
