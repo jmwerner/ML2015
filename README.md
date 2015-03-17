@@ -1,7 +1,7 @@
 ML2015
 ======
 
-Machine Learning code snippets from a winter quarter 2015 independent study run in parallel with [this](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) Stanford online course. Selected algorithms will be coded by hand and understood in depth to supplement and enhance the online course. Code will be written primarily in `Julia` and `R` because those are Jeremy's strongest languages. Although most of these topics will come as a review from previous coursework, each chapter will be read and selected algorithms will be written by hand for fun. Weekly meetings will take place for any who wish to attend where the week's work will be discussed and demonstrated. 
+Machine Learning code snippets from a winter quarter 2015 independent study run in parallel with [this](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) Stanford online course. Selected algorithms will be coded by hand and understood in depth to supplement and enhance the online course. Code will be written primarily in `Julia` and `R` because those are Jeremy's strongest languages. Although most of these topics will come as a review from previous coursework, each chapter will be read and selected algorithms will be written by hand for fun. 
 
 
 #### Links
@@ -22,8 +22,8 @@ Week (Starting on) | Reading Chapter(s) | Topics | Algorithm(s) to code | Comple
 4 (2/2)| 5 | Resampling | Bootstrap/Cross Validation tests | 2/7
 5 (2/9)| 6 | Model Selection & Shrinkage Methods | Principal Components Regression | 2/28
 6 (2/16)| 7 | Moving Beyond Linearity | Generalized Additive Models | 2/28
-7 (3/2)| 8 | Trees | Boosting |
-8 (3/2)| 9 | Support Vector Machines | SVM  |
-9 (3/9) | 9 | Support Vector Machines | SVM for more than 2 classes |
-10 (3/16)  |  10 | Unsupervised Learning | Clustering algorithm(s) |
+7 (3/2)| 8 | Trees | Boosting | 3/15
+8 (3/2)| 9 | Support Vector Machines | SVM  | 3/15
+9 (3/9) | 9 | Support Vector Machines | SVM for more than 2 classes | 3/15
+10 (3/16)  |  10 | Unsupervised Learning | Clustering algorithm(s) | 3/16
 
